@@ -32,3 +32,5 @@ Burada rastgele üretilen sayinin 72 ye göre modu aliniyor ve elde ettiğimiz s
 En son da ana fonksiyonumuzda gerekli input ve outputları aldıktan sonra şifre oluşturan fonskiyonumuzu çağırabiliriz:
 
 ![image](https://github.com/isleyen/randomPasswordGenerator/assets/136992260/c02b9386-1e4d-4934-9b55-944c63bd6330)
+
+Hedef Dosya: main.cpp
